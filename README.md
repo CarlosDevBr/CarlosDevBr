@@ -15,7 +15,7 @@
 <p> - 📚 Estudando Python, Java, Delphi. </p>
 <p> - 🔍 Participo de uma Iniciação Científica sobre uso de imagens na segurança de um DTI(Destino Turístico Inteligente). </p>
 <p> - 😄 Pronouns: ele/dele </p>
-  
+<br><br>  
 </div>
 
   ##
