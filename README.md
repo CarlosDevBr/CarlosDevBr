@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Carlos Henrique
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando Python
+- 🔭 Hoje trabalho com back-end 
+- 🌱 Estudando Python, Java, Delphi
 - 😄 Pronouns: ele/dele
 
 ##
@@ -22,7 +22,6 @@
 
 </div>
   
-  ##
   ##
 
 <div>  
