@@ -9,7 +9,7 @@
   
 ### Sobre Mim
   
-<img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
+<img align="right" width="250" height="250" style="border-radius:30px;" src="welcome.gif?raw=true" />
 <p> - 👨‍💻 Hoje trabalho com Delphi no Backend. </p>
 <p> - 👨‍🎓 Curso Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo - Atualmente estou no 2° Semestre. </p>
 <p> - 📚 Estudando Python, Java, Delphi. </p>
