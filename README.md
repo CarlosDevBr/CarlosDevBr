@@ -9,11 +9,11 @@
   
 ### Sobre Mim
   
-<img align="right" width="250" height="250" style="border-radius:30px;" src="welcome.gif?raw=true" />
+<img align="right" width="250" height="250" style="border-radius:30px;" src="ola.gif?raw=true" />
 <p> - 👨‍💻 Hoje trabalho com Delphi no Backend. </p>
 <p> - 👨‍🎓 Curso Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo - Atualmente estou no 2° Semestre. </p>
 <p> - 📚 Estudando Python, Java, Delphi. </p>
-<p> - 🔍 Participo de uma Iniciação Científica sobre uso de imagen na segurança de um DTI(Destino Turístico Inteligente). </p>
+<p> - 🔍 Participo de uma Iniciação Científica sobre uso de imagens na segurança de um DTI(Destino Turístico Inteligente). </p>
 <p> - 😄 Pronouns: ele/dele </p>
   
 </div>
