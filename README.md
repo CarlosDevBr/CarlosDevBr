@@ -8,7 +8,7 @@
 <div>
   
 ### Sobre Mim
-  
+
 <img align="right" width="250" height="250" style="border-radius:30px;" src="ola.gif?raw=true" />
 <p> - 👨‍💻 Hoje estou focado em aprender sobre Java, Spring Boot, Maven, JPA/Hibernate, Testes, Cloud e Boas praticas. </p>
 <p> - 👨‍🎓 Curso Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo - Atualmente estou no 3° Semestre. </p>
@@ -77,6 +77,7 @@
 </div>
   
 #
+
   
 <div> 
   <p align="center">
