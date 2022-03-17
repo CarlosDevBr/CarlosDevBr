@@ -3,7 +3,7 @@
     <img align="center" width="450" src="teclando.gif" />
   </a>
 
-## Hello, How are you?
+## <p align="center">Hello, How are you? <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px"></p>
 
 <div>
   
@@ -12,9 +12,10 @@
 <img align="right" width="250" height="250" style="border-radius:30px;" src="ola.gif?raw=true" />
 <p> - 👨‍💻 Hoje estou focado em aprender sobre Java, Spring Boot, Maven, JPA/Hibernate, Testes, Cloud e Boas praticas. </p>
 <p> - 👨‍🎓 Curso Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo - Atualmente estou no 3° Semestre. </p>
-<p> - 📚 Estudando Java, NodeJS, Python. </p>
-<p> - 🔍 Participo de uma Iniciação Científica sobre uso de imagens na segurança de um DTI(Destino Turístico Inteligente). </p>
+<p> - 📚 Estudando Java, NodeJS, Python, Html, Css, JavaScript, Angular entre outras coisas. </p>
+<p> - 🔍 Participei de uma Iniciação Científica sobre uso de imagens na segurança de um DTI(Destino Turístico Inteligente). </p>
 <p> - 😄 Pronouns: ele/dele </p>
+<p> - 💭 "Determinação, foco, persistência e paciência fazem uma combinação imbatível para o sucesso".</p>
 <br><br>  
 </div> 
 
@@ -23,6 +24,12 @@
   <img height="135em" src="https://github-readme-stats.vercel.app/api?username=CarlosDevBr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDevBr&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+<br /> <br /> <br />  
+<a href="https://github.com/CarlosDevBr">
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=CarlosDevBr&column=6&theme=onedark"/>
+    </p>
+</a>
 
 #
 ### Minhas Skills
