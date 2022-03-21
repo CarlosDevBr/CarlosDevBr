@@ -5,6 +5,12 @@
 
 ## <p align="center"> <img src="/Assets/HI+GIF.gif" width="50px"> Hello, How are you? <img src="/Assets/WorkSpace.gif" width="80px"> </p>
 
+<div align="center"> 
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
+
+</div>
+
 <div>
   
 ### Sobre Mim
