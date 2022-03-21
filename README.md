@@ -1,15 +1,15 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="450" src="/assets/teclando.gif" />
+    <img align="center" width="450" src="/Assets/digitando.gif" />
   </a>
 
-## <p align="center">Hello, How are you? <img src="/assets/Hi.gif" width="50px">  <img src="/assets/Developer.gif" width="80px"></p>
+## <p align="center"> <img src="/Assets/HI+GIF.gif" width="50px"> Hello, How are you? <img src="/Assets/WorkSpace.gif" width="80px"> </p>
 
 <div>
   
 ### Sobre Mim
 
-<img align="right" width="250" height="250" style="border-radius:30px;" src="ola.gif?raw=true" />
+<img align="right" width="250" height="250" style="border-radius:30px;" src="/Assets/HelloSonic.jpg" />
 <p> - 👨‍💻 Hoje estou focado em aprender sobre Java, Spring Boot, Maven, JPA/Hibernate, Testes, Cloud e Boas praticas. </p>
 <p> - 👨‍🎓 Curso Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo - Atualmente estou no 3° Semestre. </p>
 <p> - 📚 Estudando Java, NodeJS, Python, Html, Css, JavaScript, Angular entre outras coisas. </p>
