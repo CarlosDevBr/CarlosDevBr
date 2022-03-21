@@ -1,9 +1,9 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="450" src="teclando.gif" />
+    <img align="center" width="450" src="/assets/teclando.gif" />
   </a>
 
-## <p align="center">Hello, How are you? <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px"></p>
+## <p align="center">Hello, How are you? <img src="/assets/Hi.gif" width="50px">  <img src="/assets/Developer.gif" width="80px"></p>
 
 <div>
   
