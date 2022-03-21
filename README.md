@@ -15,7 +15,7 @@
 <p> - 📚 Estudando Java, NodeJS, Python, Html, Css, JavaScript, Angular entre outras coisas. </p>
 <p> - 🔍 Participei de uma Iniciação Científica sobre uso de imagens na segurança de um DTI(Destino Turístico Inteligente). </p>
 <p> - 😄 Pronouns: ele/dele </p>
-<p> - 💭 "Determinação, foco, persistência e paciência fazem uma combinação imbatível para o sucesso".</p>
+<p> - 💭 "O sucesso é a soma de pequenos esforços repetidos dia após dia".</p>
 <br><br>  
 </div> 
 
