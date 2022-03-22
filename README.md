@@ -20,7 +20,7 @@
 <p> - 👨‍🎓 Systems Analysis and Development Course at the Federal Institute of São Paulo - I am currently in the 3rd Semester. </p>
 <p> - 📚 Studying Java, NodeJS, Python, Html, Css, JavaScript, Angular among other things. </p>
 <p> - 🔍 I participated in a Scientific Initiation on the use of images in the security of a DTI (Intelligent Tourist Destination). </p>
-<p> - 😄 Pronouns: ele/he/él </p>
+<p> - 😄 Pronouns: he/his </p>
 <p> - 💭 "Success is the sum of repeated efforts day after day".</p>
 <br><br>  
 </div> 
