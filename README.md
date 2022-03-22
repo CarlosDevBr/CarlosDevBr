@@ -7,7 +7,7 @@
 
 <div align="center"> 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+Be+welcome!)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,12 +16,12 @@
 ### About Me
 
 <img align="right" width="250" height="250" style="border-radius:30px;" src="/Assets/HelloSonic.jpg" />
-<p> - 👨‍💻 Hoje estou focado em aprender sobre Java, Spring Boot, Maven, JPA/Hibernate, Testes, Cloud e Boas praticas. </p>
-<p> - 👨‍🎓 Curso Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo - Atualmente estou no 3° Semestre. </p>
-<p> - 📚 Estudando Java, NodeJS, Python, Html, Css, JavaScript, Angular entre outras coisas. </p>
-<p> - 🔍 Participei de uma Iniciação Científica sobre uso de imagens na segurança de um DTI(Destino Turístico Inteligente). </p>
-<p> - 😄 Pronouns: ele/dele </p>
-<p> - 💭 "O sucesso é a soma de esforços repetidos dia após dia".</p>
+<p> - 👨‍💻 Today I'm focused on learning about Java, Spring Boot, Maven, JPA/Hibernate, Tests, Cloud and Best Practices. </p>
+<p> - 👨‍🎓 Systems Analysis and Development Course at the Federal Institute of São Paulo - I am currently in the 3rd Semester. </p>
+<p> - 📚 Studying Java, NodeJS, Python, Html, Css, JavaScript, Angular among other things. </p>
+<p> - 🔍 I participated in a Scientific Initiation on the use of images in the security of a DTI (Intelligent Tourist Destination). </p>
+<p> - 😄 Pronouns: ele/he/él </p>
+<p> - 💭 "Success is the sum of repeated efforts day after day".</p>
 <br><br>  
 </div> 
 
