@@ -97,12 +97,10 @@
 ### Meus contatos
   
 <div> 
-  <p align="center">
-  <a href = "mailto:carlosaroundtheworld01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/carlos-henrique-35b38b1a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/cah_gameover/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"_blank"></a>
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carloshenrique-oliveira/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:carlosaroundtheworld01@gmail.com)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-forestgreen?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/cahzerohenrique)
   
  # 
  ### Total de visitas no meu perfil :detective:
