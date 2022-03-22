@@ -13,7 +13,7 @@
 
 <div>
   
-### Sobre Mim
+### About Me
 
 <img align="right" width="250" height="250" style="border-radius:30px;" src="/Assets/HelloSonic.jpg" />
 <p> - 👨‍💻 Hoje estou focado em aprender sobre Java, Spring Boot, Maven, JPA/Hibernate, Testes, Cloud e Boas praticas. </p>
@@ -42,7 +42,7 @@
 </a>
 
 #
-### Minhas Skills
+### My Skills
   
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Carlos-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
@@ -94,7 +94,7 @@
 </div>
   
 #
-### Meus contatos
+### My Contacts
   
 <div> 
 
@@ -103,7 +103,7 @@
 [![HackerRank](https://img.shields.io/badge/-HackerRank-forestgreen?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/cahzerohenrique)
   
  # 
- ### Total de visitas no meu perfil :detective:
+ ### Total visits to my profile :detective:
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/CarlosDevBr/count.svg" />
  </p>
