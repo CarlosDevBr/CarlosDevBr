@@ -7,8 +7,8 @@
 
 <div align="center"> 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+Be+welcome!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+  
 </div>
 
 <div>
