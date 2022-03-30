@@ -103,7 +103,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carloshenrique-oliveira/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:carlosaroundtheworld01@gmail.com)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-forestgreen?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/cahzerohenrique)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-forestgreen?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/henrique_h?hr_r=1)
   
  # 
  ### Total visits to my profile :detective:
