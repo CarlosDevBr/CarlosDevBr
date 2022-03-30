@@ -1,6 +1,6 @@
 <p align="left"><a href="#">
-  <img align="left" width="450" height="350" src="/Assets/digitando.gif"/>
-  <img align="right" width="450" height="350" src="/Assets/code.gif"/>
+  <img align="left" width="250" height="250" src="/Assets/digitando.gif"/>
+  <img align="right" width="250" height="250" src="/Assets/code.gif"/>
   </a>
 
 <br /> <br /><br /> <br /><br /> <br /><br /> <br /><br /> <br /><br /> <br /><br /><br /> <br /><br /> <br />  
