@@ -1,9 +1,12 @@
-<p align="center">
-  <a href="#">
-    <img align="center" width="450" src="/Assets/digitando.gif" />
+<p align="left"><a href="#">
+  <img align="left" width="450" height="350" src="/Assets/digitando.gif"/>
+  <img align="right" width="450" height="350" src="/Assets/code.gif"/>
   </a>
 
+<br /> <br /><br /> <br /><br /> <br /><br /> <br /><br /> <br /><br /> <br /><br /><br /> <br /><br /> <br />  
+
 ## <p align="center"> <img src="/Assets/HI+GIF.gif" width="50px"> Hello, How are you? <img src="/Assets/WorkSpace.gif" width="80px"> </p>
+
 
 <div align="center"> 
   
@@ -12,7 +15,7 @@
 </div>
 
 <div>
-  
+ 
 ### About Me
 
 <img align="right" width="250" height="250" style="border-radius:30px;" src="/Assets/HelloSonic.jpg" />
